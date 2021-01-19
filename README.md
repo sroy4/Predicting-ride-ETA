@@ -6,6 +6,8 @@ Many on-demand logistics companies like Uber, Ola, and Lyft are displaying their
 ### Goal
 To predict the arrival time of a cab in NY city for different weather & locations.
 
+![heatmap of popular routes for cabs] (pick up -drop off heat map.png)
+
 ### Methdology
 * Data pre-processing and feature engineering
 
