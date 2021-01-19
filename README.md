@@ -9,6 +9,17 @@ There are many factors that should be considered in order to facilitate searchin
 To 
 
 ### Methdology
+* Data pre-processing and feature engineering
+
+* Training models
+
+* Evaluation
+
+* Production deployment
+
+* Make predictions
+
+* Monitoring and optimization
 
 #### Data Preparation
 
